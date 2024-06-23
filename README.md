@@ -51,6 +51,12 @@
 <a href="https://www.w3schools.com/js/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Javascript-414141?style=flat&logo=javascript" alt="Javascript"/>
 </a>&nbsp;
+<a href="https://www.w3c.br/Cursos/CursoHTML5" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-HTML5-414141?style=flat&logo=html5" alt="HTML5"/>
+</a>&nbsp;
+<a href="https://www.w3c.br/Cursos/CursoCSS3/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-CSS3-414141?style=flat&logo=css3" alt="CSS3"/>
+</a>&nbsp;
 <a href="https://docs.python.org/3/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
 </a>&nbsp;
