@@ -15,7 +15,7 @@
 <div align="justify">
     
  >   Sobre mim:   
-  <p> Sou um Desenvolvedor buscando habilidades em Segurança Informação com o objetivo de implementar soluções seguras e inovadoras. </p>
+  <p> Sou um programador buscando habilidades em Segurança Informação com o objetivo de implementar soluções seguras e inovadoras. </p>
 <p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos. </p>    
           
 </div>
