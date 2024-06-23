@@ -14,10 +14,9 @@
 <br />
 <div align="justify">
     
- >   Sobre mim: 
-  
+ >   Sobre mim:   
   <p> Sou um Desenvolvedor buscando habilidades em Segurança Informação com o objetivo de implementar soluções seguras e inovadoras. </p>
-<p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos. </p>     
+<p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos. </p>    
           
 </div>
 
@@ -30,7 +29,6 @@
   -   :handbag:  &nbsp; Freelancer: Desenvolvedor de Software - Landpages, sites e aplicativos móveis.
   
   -   :round_pushpin: João Pessoa, Paraiba, Brasil  
-
 
 
 <br />
@@ -65,14 +63,16 @@
 <a href="https://docs.docker.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
 </a>&nbsp;
+<hr>
 
 > Tools:
 <a href="https://www.torproject.org/download/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Tor-414141?style=flat&logo=Tor-Browser" alt="Tor"/>
-</a><br />&nbsp;
+</a>&nbsp;
 <a href="https://www.shodan.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Shodan-414141?style=flat&logo=Shodan-Browser" alt="Shodan"/>
-</a><br />&nbsp;
+</a>&nbsp;
+<hr>
 
 > Outras:
 <a href="https://www.postman.com/" target="_blank">
@@ -90,7 +90,7 @@
 <a href="https://zoom.us/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Zoom-414141?style=flat&logo=zoom" alt="Zoom"/>
 </a>
-<br><br>
+<br>
 
          
 ## ⚙️ &nbsp;GitHub Analytics
