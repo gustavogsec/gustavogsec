@@ -72,6 +72,9 @@
 <a href="https://www.shodan.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Shodan-414141?style=flat&logo=Shodan-Browser" alt="Shodan"/>
 </a>&nbsp;
+<a href="https://www.metasploit.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Metasploit-414141?style=flat&logo=Metasploit" alt="Metasploit"/>
+</a>&nbsp;
 <hr>
 
 > Outras:
