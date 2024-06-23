@@ -75,6 +75,9 @@
 <a href="https://www.metasploit.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Metasploit-414141?style=flat&logo=Metasploit" alt="Metasploit"/>
 </a>&nbsp;
+<a href="https://owasp.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/SqlInjection-414141?style=flat&logo=SqlInjection" alt="SqlInjection"/>
+</a>&nbsp;
 <hr>
 
 > Outras:
